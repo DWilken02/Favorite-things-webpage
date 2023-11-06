@@ -1,6 +1,6 @@
 # Favorite things Webpage
 
-#### By **DWilken02
+#### By **DWilken02**
 
 #### _A Simple list of your Favorite things_
 
